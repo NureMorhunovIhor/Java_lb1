@@ -1,8 +1,0 @@
-Capacity: 4
-Load factor: 1,0
-Threshold: 4
-=============
-[0]null
-[1] List: Node|1=1| ==> Node|5=5|
-[2] List: Node|2=2|
-[3] List: Node|7=7|
